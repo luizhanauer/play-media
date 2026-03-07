@@ -1,0 +1,32 @@
+{
+  "anime_id": 127532,
+  "provider": "telegram_bot",
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "stream_id": "8"
+        },
+        {
+          "episode_number": 2,
+          "stream_id": "9"
+        },
+        {
+          "episode_number": 3,
+          "stream_id": "10"
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "stream_id": "seu_id_do_arquivo_no_telegram_s2_ep1"
+        }
+      ]
+    }
+  ]
+}
