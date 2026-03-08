@@ -7,51 +7,27 @@
       "episodes": [
         {
           "episode_number": 1,
-          "stream_id": "TVF_OA==",
-          "name": "",
-          "air_date": "",
-          "runtime": 0,
-          "vote_average": 0
+          "stream_id": "TVF_OA=="
         },
         {
           "episode_number": 2,
-          "stream_id": "TVF_OQ==",
-          "name": "",
-          "air_date": "",
-          "runtime": 0,
-          "vote_average": 0
+          "stream_id": "TVF_OQ=="
         },
         {
           "episode_number": 3,
-          "stream_id": "TVF_MTA=",
-          "name": "",
-          "air_date": "",
-          "runtime": 0,
-          "vote_average": 0
+          "stream_id": "TVF_MTA="
         },
         {
           "episode_number": 25,
-          "stream_id": "TVF_MTE=",
-          "name": "",
-          "air_date": "",
-          "runtime": 0,
-          "vote_average": 0
+          "stream_id": "TVF_MTE="
         },
         {
           "episode_number": 24,
-          "stream_id": "TVF_MTI=",
-          "name": "",
-          "air_date": "",
-          "runtime": 0,
-          "vote_average": 0
+          "stream_id": "TVF_MTI="
         },
         {
           "episode_number": 22,
-          "stream_id": "TVF_MTU=",
-          "name": "Precisamos de um herói",
-          "air_date": "2025-03-09",
-          "runtime": 24,
-          "vote_average": 7.889
+          "stream_id": "TVF_MTY="
         }
       ]
     },
@@ -60,11 +36,7 @@
       "episodes": [
         {
           "episode_number": 1,
-          "stream_id": "TVF_OA==",
-          "name": "",
-          "air_date": "",
-          "runtime": 0,
-          "vote_average": 0
+          "stream_id": "TVF_OA=="
         }
       ]
     }
