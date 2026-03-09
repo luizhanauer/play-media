@@ -1,0 +1,15 @@
+{
+  "anime_id": 256721,
+  "provider": "telegram_bot",
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 24,
+          "stream_id": "TVF_MTA="
+        }
+      ]
+    }
+  ]
+}
