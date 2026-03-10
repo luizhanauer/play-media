@@ -1,0 +1,15 @@
+{
+  "anime_id": 207332,
+  "provider": "telegram_bot",
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 22,
+          "stream_id": "TVF_MTE="
+        }
+      ]
+    }
+  ]
+}
